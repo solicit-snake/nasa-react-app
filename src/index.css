@@ -151,7 +151,8 @@ footer button:hover {
 
 .descriptionTitle {
   font-size: 1.1rem;
-  font-weight: 200;
+  font-weight: 50;
+  font-style: oblique;
 }
 
 .loadingState {
